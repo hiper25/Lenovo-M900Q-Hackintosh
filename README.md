@@ -1,6 +1,6 @@
 ### Lenovo-M900Q-Hackintosh
 
-### 此版本为 macOS 13 Ventura Beta 3
+### 此版本为 macOS 13 Ventura Beta 4
 
 #### 配置:
 
@@ -33,7 +33,7 @@
 
 #### 下载:
 
-- [点击这里](https://github.com/hiper25/Lenovo-M900Q-Hackintosh/releases/tag/0.8.3)
+- [点击这里](https://github.com/hiper25/Lenovo-M900Q-Hackintosh/releases/tag/0.8.3-2022.07.28)
 
 #### 鸣谢：
 
