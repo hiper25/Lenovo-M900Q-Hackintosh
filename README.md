@@ -1,6 +1,6 @@
 ### Lenovo-M900Q-Hackintosh
 
-### 此版本为 macOS 13 Ventura Beta 4
+### 此版本为 macOS 13 Ventura Beta 5 (22A5321d)
 
 #### 配置:
 
@@ -14,7 +14,7 @@
 | 声音              | Realtek ALC233                          |
 | Wi-Fi & Bluetooth | Broadcom BCM94352Z DW1560 / BCM2045     |
 | SMBIOS            | MacMini8,1                              |
-| 引导              | OpenCore 0.8.3                          |
+| 引导              | OpenCore 0.8.4                          |
 
 #### 可用:
 
@@ -33,7 +33,7 @@
 
 #### 下载:
 
-- [点击这里](https://github.com/hiper25/Lenovo-M900Q-Hackintosh/releases/tag/0.8.3-2022.07.28)
+- [点击这里](https://github.com/hiper25/Lenovo-M900Q-Hackintosh/releases/)
 
 #### 鸣谢：
 
